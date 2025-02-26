@@ -5,7 +5,7 @@ const Contact = () => {
     return (
         <section id="contact">
             <h2>Contact Name: Ifeanyi Obi </h2>
-            <p>Email: OBI2@MARSHALL.EDU</p>
+            <p>Email: OBIIFY121@GMAIL.COM</p>
             <p>LinkedIn:    <a href="https://linkedin.com/in/ifeanyi-obi-5235ba308" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faLinkedin} className="icon" />
              Click Here</a>
