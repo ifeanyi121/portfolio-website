@@ -10,9 +10,7 @@ import image4 from "../images/UiPic4.png";
 
 import video1 from "../images/trashcanVid1_muted.mp4";
 import video2 from "../images/trashcanVid.mp4";
-// Import second set of images
-import trashImage1 from "../images/Trash1.png";
-import trashImage2 from "../images/Trash2.png";
+
 
 // Import third set of images
 import cnnPic1 from "../images/CnnPic1.png";
